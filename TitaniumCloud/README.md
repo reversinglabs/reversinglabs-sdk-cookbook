@@ -1,4 +1,4 @@
-# ReversingLabs SDK TitaniumCloud module (ticloud)
+# ReversingLabs SDK TitaniumCloud module (ticloud) examples
 
 This directory contains code examples for using several popular TitaniumCloud API-s arranged into Jupyter notebooks.
 
