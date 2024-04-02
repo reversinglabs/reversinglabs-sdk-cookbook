@@ -64,3 +64,33 @@ a1000_obj = A1000(
 Now that you have an API object, you can proceed to call any of the available methods that the object contains.  
 To see specific usage examples or recommended scenarios for certain API-s, check the provided **notebooks**
 (**ipynb** files).
+
+
+## Advanced
+### Error handling
+To understand this section better, **learn about creating API requests first** by reading the notebooks in the A1000 folder.  
+Each module raises corresponding custom exceptions according to the error status code returned in the response. 
+Custom exception classes that correspond to error status codes also carry the original response object in its entirety. 
+To learn how to fetch and use the response object out of the exception object, see the following example.
+
+```python
+from ReversingLabs.SDK.a1000 import A1000
+
+
+a1000_obj = A1000(
+    host="url_of_a1000_instance",
+    token="your_actual_token",
+    verify=True
+)
+
+try:
+    resp = a1000_obj.get_classification_v3(
+        sample_hash="cf23df2207d99a74fbe169e3eba035e633b65d94",
+        av_scanners=True
+    )
+except Exception as e:
+    if hasattr(e, "response_object"):
+        print(e.response_object.content)
+    else:
+        raise 
+```
