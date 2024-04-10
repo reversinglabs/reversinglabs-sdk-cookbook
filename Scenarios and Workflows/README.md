@@ -15,7 +15,7 @@ Since this directory, at some point, uses all ReversingLabs SDK modules, the `cr
 - A1000 uses a **token**. 
 - TitaniumScale uses a **token**.  
 
-To obtain the required credentials, visit https://www.reversinglabs.com
+To obtain the required credentials, visit https://www.reversinglabs.com  
 Each username can have a certain number of roles for API-s assigned to it. In case your username does not have the required role for your desired action, you will receive an error stating so.  
 
 #### Storing and using the credentials
