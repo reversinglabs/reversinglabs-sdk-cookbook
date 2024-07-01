@@ -4,7 +4,7 @@ ReversingLabs SDK Cookbook Change Log
 v1.1.0 (2024-06-24)
 -------------------
 
-#### Deprecations
+#### Improvements
 
 - **Scenarios and Workflows** notebooks:
   - Added images directory with content and source for notebooks to use.
@@ -16,5 +16,16 @@ v1.1.0 (2024-06-24)
 - **TitaniumCloud** notebooks:
   - Added Classification override example to `sample_management.ipynb`
 
-#### Improvements
+
   - User-Agent string is now read from `user_agent.json`
+
+
+v1.2.0 (2024-07-01)
+-------------------
+
+#### Improvements
+
+- **TitaniumCloud** notebooks:
+  - Added the `taxii_ransomware_feed.ipynb` notebook.
+
+
