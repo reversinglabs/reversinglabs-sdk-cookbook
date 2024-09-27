@@ -29,3 +29,16 @@ v1.2.0 (2024-07-01)
   - Added the `taxii_ransomware_feed.ipynb` notebook.
 
 
+v1.3.0 (2024-09-27)
+-------------------
+
+#### Improvements
+
+- **TitaniumScale** notebooks:
+  - Added the `sample_upload.ipynb.ipynb` notebook.
+  
+- **Scenarios and Workflows** notebooks:
+  - Added the `new_malware_scans_and_classification.ipynb` notebook.
+
+
+
