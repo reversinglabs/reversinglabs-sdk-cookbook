@@ -40,5 +40,7 @@ v1.3.0 (2024-09-27)
 - **Scenarios and Workflows** notebooks:
   - Added the `new_malware_scans_and_classification.ipynb` notebook.
 
+- Created a Dockerfile for running the Jupyter server in a container and using the cookbook notebooks from a web browser.
+
 
 
