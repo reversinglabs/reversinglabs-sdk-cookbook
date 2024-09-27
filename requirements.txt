@@ -1,0 +1,2 @@
+jupyter
+reversinglabs-sdk-py3
