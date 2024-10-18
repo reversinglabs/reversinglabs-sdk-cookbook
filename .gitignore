@@ -1,7 +1,11 @@
 credentials.json
 ticloud_credentials.json
 a1000_credentials.json
+fie_credentials.json
+tiscale_credentials.json
 Scenarios and Workflows/credentials.json
 TitaniumCloud/ticloud_credentials.json
 A1000/a1000_credentials.json
+File Inspection Engine/fie_credentials.json
+TitaniumScale/tiscale_credentials.json
 .idea
