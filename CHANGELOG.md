@@ -43,4 +43,11 @@ v1.3.0 (2024-09-27)
 - Created a Dockerfile for running the Jupyter server in a container and using the cookbook notebooks from a web browser.
 
 
+v1.4.0 (2024-10-18)
+-------------------
 
+#### Improvements
+- Added File Inspection Engine support.
+
+- **File Inspection Engine** notebooks:
+  - Added the `scan_and_report_actions.ipynb` notebook.
