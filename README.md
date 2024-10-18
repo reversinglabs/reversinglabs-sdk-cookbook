@@ -8,6 +8,8 @@ for the **ReversingLabs SDK**.
 The whole project is separated into the following module directories:
 - A1000
   - Code examples for using the ReversingLabs SDK A1000 module followed with documentation
+- File Inspection Engine
+  - Code examples for using the ReversingLabs SDK File Inspection Engine module followed with documentation
 - TitaniumCloud
   - Code examples for using the ReversingLabs SDK TitaniumCloud module followed with documentation
 - TitaniumScale
