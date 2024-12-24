@@ -51,3 +51,16 @@ v1.4.0 (2024-10-18)
 
 - **File Inspection Engine** notebooks:
   - Added the `scan_and_report_actions.ipynb` notebook.
+
+
+v2.8.0 (2024-12-24)
+-------------------
+
+#### Improvements
+- Added File Inspection Engine support.
+
+- **Scenarios and Workflows** notebooks:
+  - Added the `download_advanced_search_matches_a1000.ipynb`, `download_advanced_search_matches_titaniumcloud.ipynb`, `download_yara_retro_matches_a1000.ipynb` and `download_yara_retro_matches_titaniumcloud.ipynb` notebooks.
+
+- **Command line tools and scripts**:
+  - Added the `cyber_defense_alliance.py` command line tool.
