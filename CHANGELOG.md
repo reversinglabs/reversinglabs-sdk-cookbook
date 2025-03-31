@@ -75,3 +75,5 @@ v2.9.0 (2025-03-31)
 
 - **Scenarios and Workflows** notebooks:
   - Added the `advanced_search_using_network_indicators.ipynb` notebook.
+
+- Changed the outdated product names found in folder names and Markdown text.

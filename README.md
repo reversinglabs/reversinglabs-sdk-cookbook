@@ -6,14 +6,14 @@ for the **ReversingLabs SDK**.
 
 #### Project hierarchy:
 The whole project is separated into the following module directories:
-- A1000
-  - Code examples for using the ReversingLabs SDK A1000 module followed with documentation
+- Spectra Analyze
+  - Code examples for using the ReversingLabs SDK Spectra Analyze module followed with documentation
 - File Inspection Engine
   - Code examples for using the ReversingLabs SDK File Inspection Engine module followed with documentation
-- TitaniumCloud
-  - Code examples for using the ReversingLabs SDK TitaniumCloud module followed with documentation
-- TitaniumScale
-  - Code examples for using the ReversingLabs SDK TitaniumScale module followed with documentation
+- Spectra Intelligence
+  - Code examples for using the ReversingLabs SDK Spectra Intelligence module followed with documentation
+- Spectra Detect
+  - Code examples for using the ReversingLabs SDK Spectra Detect module followed with documentation
 
 Each module directory has its own readme instructions for creating the required Python objects, using the credentials and covering any other important configuration actions.
 

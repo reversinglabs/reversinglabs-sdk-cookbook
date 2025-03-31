@@ -11,9 +11,9 @@ To use a selected notebook, open it and run each code snippet one by one. See th
 
 ### Authentication
 Since this directory, at some point, uses all ReversingLabs SDK modules, the `credentials.json` file needs to contain credentials for all of them.
-- TitaniumCloud uses a **username and password** pair (**basic authentication**).  
-- A1000 uses a **token**. 
-- TitaniumScale uses a **token**.  
+- Spectra Intelligence uses a **username and password** pair (**basic authentication**).  
+- Spectra Analyze uses a **token**. 
+- Spectra Detect uses a **token**.  
 
 To obtain the required credentials, visit https://www.reversinglabs.com  
 Each username can have a certain number of roles for API-s assigned to it. In case your username does not have the required role for your desired action, you will receive an error stating so.  
