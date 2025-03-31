@@ -64,3 +64,14 @@ v2.8.0 (2024-12-24)
 
 - **Command line tools and scripts**:
   - Added the `cyber_defense_alliance.py` command line tool.
+
+
+v2.9.0 (2025-03-31)
+-------------------
+
+#### Improvements
+- **TitaniumCloud** notebooks:
+  - The `taxii_ransomware_feed.ipynb` notebook was replaced with `taxii_feed.ipynb`.
+
+- **Scenarios and Workflows** notebooks:
+  - Added the `advanced_search_using_network_indicators.ipynb` notebook.
