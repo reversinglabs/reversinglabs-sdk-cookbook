@@ -77,3 +77,9 @@ v2.9.0 (2025-03-31)
   - Added the `advanced_search_using_network_indicators.ipynb` notebook.
 
 - Changed the outdated product names found in folder names and Markdown text.
+
+
+v2.10.0 (2025-06-23)
+-------------------
+- **Scenarios and Workflows** notebooks:
+  - Added the `TAXII_data_filtering` notebook.
