@@ -81,5 +81,7 @@ v2.9.0 (2025-03-31)
 
 v2.10.0 (2025-06-23)
 -------------------
+
+### Improvements
 - **Scenarios and Workflows** notebooks:
   - Added the `TAXII_data_filtering` notebook.
