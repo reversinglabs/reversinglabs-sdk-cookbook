@@ -87,7 +87,17 @@ v2.10.0 (2025-06-23)
   - Added the `TAXII_data_filtering` notebook.
 
 
-v2.10.0 (2025-10-01)
+v2.11.0 (2025-10-01)
 -------------------
+
+### Improvements
 - **Scenarios and Workflows** notebooks:
   - Fixed minor issues in the `advanced_search_using_network_indicators.ipynb` notebook.
+
+
+v2.11.1 (2025-10-08)
+-------------------
+
+### Improvements
+- **Scenarios and Workflows** notebooks:
+  - Added the `TAXII_indicator_enrichment.ipynb` notebook.
