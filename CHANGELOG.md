@@ -101,3 +101,11 @@ v2.11.1 (2025-10-08)
 ### Improvements
 - **Scenarios and Workflows** notebooks:
   - Added the `TAXII_indicator_enrichment.ipynb` notebook.
+
+
+v2.11.4 (2025-10-21)
+-------------------
+
+### Improvements
+- **TitaniumScale** notebooks:
+  - Added the "Working with large files" section to the `sample_upload.ipynb` notebook.
