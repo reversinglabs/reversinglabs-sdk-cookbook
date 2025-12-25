@@ -1,6 +1,6 @@
 # Scenarios and Workflows
 
-This directory contains useful examples of analysis workflows and examples.  
+This directory contains useful analysis workflows and examples.  
 In order to see how to put ReversingLabs SDK functionalities to good use in real-life scenarios, follow this readme and choose a desired notebook.
 
 

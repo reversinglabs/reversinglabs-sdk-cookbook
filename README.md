@@ -14,6 +14,8 @@ The whole project is separated into the following module directories:
   - Code examples for using the ReversingLabs SDK Spectra Intelligence module followed with documentation
 - Spectra Detect
   - Code examples for using the ReversingLabs SDK Spectra Detect module followed with documentation
+- Scenarios and Workflows
+  - This directory contains useful analysis workflows and examples.
 
 Each module directory has its own readme instructions for creating the required Python objects, using the credentials and covering any other important configuration actions.
 
