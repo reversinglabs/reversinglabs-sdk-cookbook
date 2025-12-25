@@ -70,7 +70,7 @@ v2.9.0 (2025-03-31)
 -------------------
 
 #### Improvements
-- **TitaniumCloud** notebooks:
+- **Spectra Intelligence** notebooks:
   - The `taxii_ransomware_feed.ipynb` notebook was replaced with `taxii_feed.ipynb`.
 
 - **Scenarios and Workflows** notebooks:
@@ -107,5 +107,21 @@ v2.11.4 (2025-10-21)
 -------------------
 
 ### Improvements
-- **TitaniumScale** notebooks:
+- **Spectra Detect** notebooks:
   - Added the "Working with large files" section to the `sample_upload.ipynb` notebook.
+
+
+v2.12.0 (2025-12-24)
+-------------------
+
+### Improvements
+- **Spectra Intelligence** notebooks:
+  - Added the `indicators_of_compromise.ipynb` notebook.
+  - Added the `supply_chain_ioc_feed.ipynb` notebook.
+
+- **Scenarios and Workflows** notebooks:
+  - Added the `yara_extended_threat_hunting.ipynb` notebook.
+
+### Removals
+- **Spectra Intelligence** notebooks:
+  - Removed The `ExpressionSearch` example from the `search.ipynb` notebook.
