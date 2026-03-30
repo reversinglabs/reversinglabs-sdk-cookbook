@@ -125,3 +125,11 @@ v2.12.0 (2025-12-24)
 ### Removals
 - **Spectra Intelligence** notebooks:
   - Removed The `ExpressionSearch` example from the `search.ipynb` notebook.
+
+
+v2.13.0 (2026-03-30)
+-------------------
+
+### Improvements
+- **Scenarios and Workflows** notebooks:
+  - Added the `advanced_search_to_fif.ipynb`, `yara_hunt_to_fif.ipynvb` and `email_file_reputation.ipynb` notebooks.
